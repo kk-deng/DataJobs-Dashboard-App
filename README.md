@@ -4,6 +4,10 @@ Heroku Web App:
 
 http://www.datajob.site/
 
+* Dashboard:
+
+<img src="https://github.com/kk-deng/DataJobs-Dashboard-App/blob/main/Screenshots/dashboard.png">
+
 ## Background
 
 With the rapid advancement of technologies, data related jobs have become highly demanded in recent years. The computer technology boom in the past 20 years has made computer usage much easier and cheaper for everyone, and this has led to the enormous increase in data generation and the demand for data organization. With an easier access to data, and the importance of data in decision making, data analysis has become significantly crucial in all industries. According to the LinkedIn Workforce Report in the USA, the demand for data related professions has multiplied six times compared to five years ago, and this growth will continue for the next five years [1]. Therefore, people with data organization and analysis skills are highly in demand in the work force, and data related topics are currently the main innovation focus in many IT professionals.
